@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Credentials & secrets
+*.key
+*.pem
+*.json_credentials
+service-account*.json
+.streamlit/secrets.toml
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated reports & logs
+reports/*.csv
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
