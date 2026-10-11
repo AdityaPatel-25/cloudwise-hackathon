@@ -1,10 +1,10 @@
 # CloudWise — Google Cloud CUD & SUD Optimization Advisor
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloudwise-359875495416.us-west1.run.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Google%20Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloudwise-315978729781.us-central1.run.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/AdityaPatel-25/cloudwise-hackathon)
 [![Tests Passing](https://img.shields.io/badge/Tests-28%20Passed-34A853?style=for-the-badge&logo=pytest&logoColor=white)](https://github.com/AdityaPatel-25/cloudwise-hackathon)
 
-> **Live Application:** [https://cloudwise-359875495416.us-west1.run.app/](https://cloudwise-359875495416.us-west1.run.app/)  
+> **Live Application:** [https://cloudwise-315978729781.us-central1.run.app/](https://cloudwise-315978729781.us-central1.run.app/)  
 > **Google Cloud Associate Cloud Engineer Skills Hackathon MVP**  
 > An explainable, evidence-based FinOps advisory platform that analyzes Compute Engine telemetry, calculates Sustained Use Discounts (SUD), models Committed Use Discounts (CUD), stress-tests underutilization risk (60% to 120%), and delivers transparent confidence scoring and "Wait for More Data" recommendations.
 
